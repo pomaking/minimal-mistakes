@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /about/
 title: "About"
 excerpt: "The Flip Philosopher is a compendium of stories from years on the road with and without kids."
