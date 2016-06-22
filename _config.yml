@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "The Flip Flop Philosopher"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "The Flip Flop Philosopher"
+description              : "Perspectives from the road."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,7 +63,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "David Spencer"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
