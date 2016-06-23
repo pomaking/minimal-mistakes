@@ -1,11 +1,12 @@
 ---
-title: "Getting Into Cars With Strangers"
+title: Getting Into Cars With Strangers
 categories:
   - Wyoming
   - United States
   - Jackson Hole
 tags:
   - hitchhiking
+published: true
 ---
 {% raw %}<img src="{{ site.url }}{{ site.baseurl }}/images/elk-refuge.JPG" alt="National Elk Refuge in Jackson Hole, Wyoming" class="full">{% endraw %}
 I'll start this blog by dipping the pen in some pretty dry ink.
