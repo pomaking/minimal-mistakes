@@ -38,8 +38,6 @@ intro:
 
 {% include feature_row %}
 
-{% include posts_row %}
-
 {% include base_path %}
 
 <div class="grid__wrapper">
