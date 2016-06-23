@@ -1,7 +1,7 @@
 ---
 title: Getting Into Cars With Strangers
 header:
-  teaser: "https://elk-refuge-teaser.jpg"
+  teaser: "/images/elk-refuge-teaser.jpg"
 categories:
   - United States
   - Wyoming
