@@ -3,8 +3,8 @@ title: Getting Into Cars With Strangers
 header:
   teaser: "https://elk-refug-teaser.jpg"
 categories:
-  - Wyoming
   - United States
+  - Wyoming
   - Jackson Hole
 tags:
   - hitchhiking
