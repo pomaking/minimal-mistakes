@@ -10,7 +10,7 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/year-archive/
 
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/page-archive/
+    url: /about/
 
   - title: "Contact"
     url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
