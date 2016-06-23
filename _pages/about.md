@@ -2,6 +2,10 @@
 layout: single
 permalink: /about/
 title: "About"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: david-and-jordan-in-canada.JPG
 excerpt: "The Flip Philosopher is a compendium of stories from years on the road with and without kids."
 layouts_gallery:
   - url: mm-layout-splash.png
