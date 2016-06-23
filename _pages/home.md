@@ -42,6 +42,6 @@ intro:
 
 <div class="grid__wrapper">
   {% for post in site.posts %}
-    {% include home-posts.html type="grid" %}
+    {% include home_posts.html type="grid" %}
   {% endfor %}
 </div>
