@@ -7,6 +7,7 @@ categories:
 tags:
   - hitchhiking
 ---
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/images/elk-refuge.JPG" alt="" class="full">{% endraw %}
 I'll start this blog by dipping the pen in some pretty dry ink.
 
 Like many people, I just wasn't ready for a job at Enterprise or Wachovia when I was getting ready to graduate from Appalachian State.  My buddy Robb, a good friend and fellow rugby player, was in the same boat.  We had both spent a fair bit of time on the slopes of North Carolina over the course of our educational pursuits, however his family had also done him the courtesy of introducing him to the delights of western skiing.  A gap year in the Rockies was in order.
