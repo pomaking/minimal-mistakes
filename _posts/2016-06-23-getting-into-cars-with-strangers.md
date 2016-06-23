@@ -8,12 +8,16 @@ tags:
   - hitchhiking
 published: true
 ---
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/images/elk-refuge.JPG" alt="National Elk Refuge in Jackson Hole, Wyoming" class="full">{% endraw %}
 I'll start this blog by dipping the pen in some pretty dry ink.
 
 Like many people, I just wasn't ready for a job at Enterprise or Wachovia when I was getting ready to graduate from Appalachian State.  My buddy Robb, a good friend and fellow rugby player, was in the same boat.  We had both spent a fair bit of time on the slopes of North Carolina over the course of our educational pursuits, however his family had also done him the courtesy of introducing him to the delights of western skiing.  A gap year in the Rockies was in order.
 
 I had been sitting on some certificates for cheap-ass plane tickets, courtesy of the American Express student plan I had at the time.  Somehow, I was able to actually use one of those for a flight into Jackson over fall break.  If I had a budget for this trip, it would have been just shy of zero.  The planning for the trip amounted to borrowing my roommate's rucksack and a sleeping bag, then looking at a map of where the town was in relation to the airport.  Yeah.  And I think the "map" was part of a printed brochure, not exactly to scale.
+
+<figure class="half">
+	<a href="https://pomaking.github.io/images/elk-refuge.JPG"><img src="/images/elk-refuge.JPG"></a>
+	<figcaption>National Elk Refuge, Jackson Hole</figcaption>
+</figure>
 
 The plane landed in Jackson late, the last flight in that night.  It's a long walk from the airport down the access road to Highway 191.  Looking back now, through the lens of Google Maps, the plan doesn't seem like such a bad idea.  I was going to walk up 191, take a left onto Teton Park Rd and double back down Moose-Wilson Rd to Teton Village.  It would have been a 13 mile walk, probably with wildlife encounters along the way, although I had no idea of this at the time.  There was a hostel in the village, though, so I would have had a cheap bed waiting for me.
 
