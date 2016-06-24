@@ -1,6 +1,10 @@
 ---
 title: Travel Insurance
 excerpt: You never know how important travel insurance is until it's too late.
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: sos-international.JPG
 image_path: "sos-international.JPG"
 published: true
 ---
