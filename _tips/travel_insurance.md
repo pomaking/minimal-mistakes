@@ -1,6 +1,7 @@
 ---
 title: Travel Insurance
 excerpt: You never know how important travel insurance is until it's too late.
+image_path: "sos-international.JPG"
 published: true
 ---
 
