@@ -40,8 +40,6 @@ intro:
 
 {% include base_path %}
 
-<div class="grid__wrapper">
+{% include home_posts.html %}
 
-{% include home_posts.html type="grid" %}
 
-</div>
