@@ -41,7 +41,7 @@ intro:
 {% include base_path %}
 
 <div class="grid__wrapper">
-  {% for post in site.posts %}
-    {% include home_posts.html type="grid" %}
-  {% endfor %}
+
+{% include home_posts.html type="grid" %}
+
 </div>
