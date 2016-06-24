@@ -12,11 +12,11 @@
   {% capture background-image %}{{ site.background-image }}{% endcapture %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item" background-image=url('{% if background-image contains "://" %}
+<div class="{{ include.type | default: "list" }}__item" style="background-image=url('{% if background-image contains "://" %}
               "{{ background-image }}"
             {% else %}
               "{{ background-image | prepend: "/images/" | prepend: base_path }}"
-            {% endif %}')>
+            {% endif %}');">
   {% if post.link %}
     <a href="{{ post.link }}" target="_blank">
   {% else %}
