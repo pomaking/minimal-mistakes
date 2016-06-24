@@ -40,4 +40,6 @@ intro:
 
 {% include home_posts.html %}
 
+{% include home_tips.html %}
+
 
