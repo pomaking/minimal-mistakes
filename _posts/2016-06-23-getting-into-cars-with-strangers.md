@@ -8,6 +8,7 @@ categories:
   - Jackson Hole
 tags:
   - hitchhiking
+image_path: "elk-refuge.JPG"
 published: true
 ---
 I'll start this blog by dipping the pen in some pretty dry ink.
