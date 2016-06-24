@@ -7,7 +7,7 @@ header:
   overlay_image: sos-international.JPG
 image_path: "sos-international.JPG"
 published: true
-background-image: /images/insurance-500.JPG
+background-image: https://pomaking.github.io/images/insurance-500.JPG
 ---
 
 I'm not not one of those travelers that has lived out on the road.  Sure, there have been extended stretches, a few months at the most, but definitely not like some of the people you see these days that manage to spend months or years traveling all over the world.
