@@ -237,10 +237,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
+  # _tips
   - scope:
       path: ""
-      type: docs
+      type: tips
     values:
       layout: single
       read_time: false
