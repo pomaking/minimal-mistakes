@@ -209,13 +209,7 @@ compress_html:
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
+  tips:
     output: true
     permalink: /:collection/:path/
   portfolio:
