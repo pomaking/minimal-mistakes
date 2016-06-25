@@ -32,6 +32,23 @@ github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+gallery:
+  - url: AdobeStock_52363215.jpeg
+    image_path: AdobeStock_52363215.jpeg
+    alt: "gallery image 1"
+    title: "Tips Image 1"
+  - url: Dollarphotoclub_103212682.jpg
+    image_path: Dollarphotoclub_103212682.jpg
+    alt: "gallery image 2"
+    title: "Tips image 2"
+  - url: Dollarphotoclub_62017074.jpg
+    image_path: Dollarphotoclub_62017074.jpg
+    alt: "gallery image 3"
+    title: "Tips image 3"
+  - url: Dollarphotoclub_69824143.jpg
+    image_path: Dollarphotoclub_69824143.jpg
+    alt: "gallery image 4"
+    title: "Tips image 4"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -41,5 +58,7 @@ intro:
 {% include home_posts.html %}
 
 {% include home_tips.html %}
+
+{% include gallery %}
 
 
