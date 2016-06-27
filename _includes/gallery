@@ -16,7 +16,7 @@
   {% assign gallery_layout = '' %}
 {% endif %}
 
-<figure class="{{ gallery_layout }} ">
+<figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
     {% if img.url %}
       <a href=
