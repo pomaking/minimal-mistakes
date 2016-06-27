@@ -48,4 +48,17 @@
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
+  <script type="text/javascript">
+      $(document).ready(function() {
+        $('#inline-html-content').magnificPopup({
+          disableOn:0,
+          alignTop: true,
+          marTop: 0,
+          marBottom: 0,
+          closeBtnInside: true,
+          mainClass: 'mfp-dark-close-button mfp-with-40-margin',
+          preloader: false
+        });
+      });
+    </script>
 </figure>
