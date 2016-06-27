@@ -33,22 +33,30 @@ github:
 intro:
   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 gallery:
-  - url: AdobeStock_52363215.jpeg
-    image_path: AdobeStock_52363215.jpeg
+  - url: airport-cheap-flights.jpg
+    image_path: airport-cheap-flights.jpg
     alt: "gallery image 1"
     title: "Tips Image 1"
-  - url: Dollarphotoclub_103212682.jpg
-    image_path: Dollarphotoclub_103212682.jpg
+  - url: airstream-lose-guidebooks.jpg
+    image_path: airstream-lose-guidebooks.jpg
     alt: "gallery image 2"
     title: "Tips image 2"
-  - url: Dollarphotoclub_62017074.jpg
-    image_path: Dollarphotoclub_62017074.jpg
+  - url: bring-to-the-table.jpg
+    image_path: bring-to-the-table.jpg
     alt: "gallery image 3"
     title: "Tips image 3"
-  - url: Dollarphotoclub_69824143.jpg
-    image_path: Dollarphotoclub_69824143.jpg
+  - url: knee-travel-insurance.jpg
+    image_path: knee-travel-insurance.jpg
     alt: "gallery image 4"
     title: "Tips image 4"
+  - url: travel-small-stuff.jpg
+    image_path: travel-small-stuff.jpg
+    alt: "gallery image 5"
+    title: "Tips image 5"
+  - url: travel-small-stuff.jpg
+    image_path: travel-small-stuff.jpg
+    alt: "gallery image 5"
+    title: "Tips image 5"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -56,8 +64,6 @@ gallery:
 {% include base_path %}
 
 {% include home_posts.html %}
-
-{% include home_tips.html %}
 
 {% include gallery %}
 
