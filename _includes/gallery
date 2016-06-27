@@ -8,6 +8,8 @@
 
 {% capture gallery_size %}{{ gallery | size }}{% endcapture %}
 
+{% capture popup_disabled %}{{ page.popupDisabledOn }}{% endcapture %}
+
 {% if gallery_size == '2' %}
   {% assign gallery_layout = 'half' %}
 {% elsif gallery_size >= '3' %}
