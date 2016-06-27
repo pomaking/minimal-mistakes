@@ -2,6 +2,7 @@
 title: Dan Dan the Maytag Man
 header:
   teaser: "https://pomaking.github.io/images/elk-refuge-teaser.jpg"
+share: true
 categories:
   - United States
   - Utah
