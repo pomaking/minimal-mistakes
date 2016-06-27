@@ -49,6 +49,12 @@ $(document).ready(function(){
       }
       return true;
     },
+    disableOn: function() {
+      if popup_disabled != 0 ) {
+        return false;
+      }
+      return true;
+    },
     type: 'image',
     tLoading: 'Loading image #%curr%...',
     gallery: {
