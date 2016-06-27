@@ -33,8 +33,7 @@ github:
 intro:
   - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 gallery:
-  - url: airport-cheap-flights.jpg
-    image_path: airport-cheap-flights.jpg
+  - image_path: airport-cheap-flights.jpg
     alt: "gallery image 1"
     title: "Tips Image 1"
   - url: airstream-lose-guidebooks.jpg
