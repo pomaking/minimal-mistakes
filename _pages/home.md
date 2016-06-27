@@ -57,6 +57,7 @@ gallery:
     image_path: travel-small-stuff.jpg
     alt: "gallery image 5"
     title: "Tips image 5"
+popDisableOn: 0
 ---
 
 {% include feature_row id="intro" type="center" %}
