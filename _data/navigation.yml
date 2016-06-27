@@ -5,6 +5,12 @@ main:
 
   - title: "Destinations"
     url: https://mmistakes.github.io/minimal-mistakes/
+    subitems:
+     - text: North America
+       url: /destinations/north-america/
+       subitems:
+         - text: Wyoming
+           url: /destinations/north-america/wyoming/
 
   - title: "Tips"
     url: https://mmistakes.github.io/minimal-mistakes/year-archive/
